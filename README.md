@@ -1,0 +1,1 @@
+Es reicht, wenn Sie die KleinerSpaß-Zip-Datei herunterladen und entpacken und dann ganz wichtig nur die index.html Datei im Browser öffnen. Am besten gar nicht in den weiteren Ordner namens Sonstiges schauen :)
